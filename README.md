@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a 2D platformer game 🔭<br>I code as a hobby! 👨‍💻<br>I like coding in unity and python. 🐍
+I code as a hobby! 👨‍💻<br>I like coding in unity and python. 🐍
 
 
 # 💻 Tech Stack:
